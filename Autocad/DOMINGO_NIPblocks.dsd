@@ -1,0 +1,81 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:DOMINGO_NIPblocks-Model]
+DWG=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:DOMINGO_NIPblocks-Isometric]
+DWG=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Layout=Isometric
+Setup=
+OriginalSheetPath=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:DOMINGO_NIPblocks-Top]
+DWG=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Layout=Top
+Setup=
+OriginalSheetPath=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:DOMINGO_NIPblocks-East]
+DWG=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Layout=East
+Setup=
+OriginalSheetPath=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:DOMINGO_NIPblocks-South]
+DWG=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Layout=South
+Setup=
+OriginalSheetPath=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=D:\Kenneth\Documents\4-2\Physics 192\Autocad\DOMINGO_NIPblocks.pdf
+OUT=D:\Kenneth\Documents\4-2\Physics 192\Autocad\
+PWD=
+[MRU Local]
+MRU=1
+File0=D:\Kenneth\Documents\4-2\Physics 192\Autocad\
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
